@@ -1,0 +1,44 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "OBJECTID" : "OBJECTID",
+    "FID" : "FID",
+    "ID" : "ID",
+    "COTA" : "COTA",
+    "DENUMIRE" : "DENUMIRE"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkid" : 3844,
+    "latestWkid" : 3844
+  },
+  "fields" : [
+    {
+      "name" : "OBJECTID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "OBJECTID"
+    },
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "FID"
+    },
+    {
+      "name" : "ID",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "ID"
+    },
+    {
+      "name" : "COTA",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "COTA"
+    },
+    {
+      "name" : "DENUMIRE",
+      "type" : "esriFieldTypeString",
+      "alias" : "DENUMIRE",
+      "length" : 10485758
+    }
+  ],
+  "features" : [{"attributes":{"OBJECTID":1,"FID":5818,"ID":5819,"COTA":1651,"DENUMIRE":"Vf. Cumpatu"},"geometry":{"x":546703.34050000086,"y":430931.39559999853}},{"attributes":{"OBJECTID":2,"FID":5945,"ID":5946,"COTA":2102.5999999999999,"DENUMIRE":"M. Furnica"},"geometry":{"x":538783.26130000129,"y":429449.20960000157}},{"attributes":{"OBJECTID":3,"FID":5819,"ID":5820,"COTA":1553,"DENUMIRE":"Vf. Cainelui"},"geometry":{"x":548432.80579999834,"y":427226.21499999985}},{"attributes":{"OBJECTID":4,"FID":11154,"ID":11155,"COTA":1660.3,"DENUMIRE":"Vf. Mierlei"},"geometry":{"x":548307.73719999939,"y":425755.32649999857}},{"attributes":{"OBJECTID":5,"FID":11153,"ID":11154,"COTA":1014,"DENUMIRE":"Plaiul Coltii"},"geometry":{"x":541402.2853000015,"y":425953.5775000006}}]
+}

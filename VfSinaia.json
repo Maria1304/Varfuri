@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.594846944016467,
+          45.37658568416784
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1,
+        "FID": 5818,
+        "ID": 5819,
+        "COTA": 1651,
+        "DENUMIRE": "Vf. Cumpatu"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.493597561252084,
+          45.363731228785134
+        ]
+      },
+      "properties": {
+        "OBJECTID": 2,
+        "FID": 5945,
+        "ID": 5946,
+        "COTA": 2102.6,
+        "DENUMIRE": "M. Furnica"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.61656624785102,
+          45.34312378013878
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3,
+        "FID": 5819,
+        "ID": 5820,
+        "COTA": 1553,
+        "DENUMIRE": "Vf. Cainelui"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.61482613169659,
+          45.32989539210934
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4,
+        "FID": 11154,
+        "ID": 11155,
+        "COTA": 1660.3,
+        "DENUMIRE": "Vf. Mierlei"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.526739173421145,
+          45.33212229980318
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5,
+        "FID": 11153,
+        "ID": 11154,
+        "COTA": 1014,
+        "DENUMIRE": "Plaiul Coltii"
+      }
+    }
+  ]
+}
